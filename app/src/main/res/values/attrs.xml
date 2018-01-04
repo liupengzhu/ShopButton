@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShopButtonView">
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="mGapBetweenCircle" format="dimension"/>
+        <attr name="leftColor" format="color"/>
+        <attr name="rightCircleColor" format="color"/>
+        <attr name="rightAddColor" format="color"/>
+        <attr name="rightCircleUnEnableColor" format="color"/>
+        <attr name="countColor" format="color"/>
+        <attr name="countSize" format="dimension"/>
+        <attr name="maxCount" format="integer"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="text" format="string"/>
+
+    </declare-styleable>
+</resources>
